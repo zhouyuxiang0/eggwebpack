@@ -1,0 +1,309 @@
+{
+  "keys": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\config\\config.default.ts",
+  "middleware": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\config\\config.default.ts",
+  "sourceUrl": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\config\\config.default.ts",
+  "webpack": {
+    "port": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\config\\config.default.ts",
+    "webpackConfigList": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\config\\config.default.ts",
+    "proxy": {
+      "host": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\config\\config.default.ts",
+      "match": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\config\\config.default.ts"
+    }
+  },
+  "session": {
+    "maxAge": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg-session\\config\\config.default.js",
+    "key": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg-session\\config\\config.default.js",
+    "httpOnly": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg-session\\config\\config.default.js",
+    "encrypt": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg-session\\config\\config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg-security\\config\\config.default.js",
+    "protocolWhiteList": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg-security\\config\\config.default.js",
+    "defaultMiddleware": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg-security\\config\\config.default.js",
+    "csrf": {
+      "enable": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg-security\\config\\config.default.js",
+      "useSession": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg-security\\config\\config.default.js",
+      "ignoreJSON": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg-security\\config\\config.default.js",
+      "cookieName": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg-security\\config\\config.default.js",
+      "sessionName": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg-security\\config\\config.default.js",
+      "headerName": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg-security\\config\\config.default.js",
+      "bodyName": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg-security\\config\\config.default.js",
+      "queryName": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "xframe": {
+      "enable": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "hsts": {
+      "enable": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg-security\\config\\config.local.js",
+      "maxAge": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg-security\\config\\config.default.js",
+      "includeSubdomains": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "dta": {
+      "enable": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "noopen": {
+      "enable": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "nosniff": {
+      "enable": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "xssProtection": {
+      "enable": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "csp": {
+      "enable": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg-security\\config\\config.default.js",
+      "policy": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg-security\\config\\config.default.js",
+      "checkAddress": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg-security\\config\\config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg-security\\config\\config.default.js"
+  },
+  "jsonp": {
+    "limit": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "callback": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "csrf": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg-jsonp\\config\\config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg-onerror\\config\\config.default.js",
+    "appErrorFilter": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg-onerror\\config\\config.default.js",
+    "templatePath": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg-onerror\\config\\config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg-i18n\\config\\config.default.js",
+    "dirs": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg-i18n\\config\\config.default.js",
+    "queryField": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieField": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieDomain": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieMaxAge": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg-i18n\\config\\config.default.js"
+  },
+  "watcher": {
+    "type": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg-watcher\\config\\config.local.js",
+    "eventSources": {
+      "default": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg-watcher\\config\\config.default.js",
+      "development": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg-watcher\\config\\config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg-schedule\\config\\config.default.js",
+      "file": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg-schedule\\config\\config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg-schedule\\config\\config.default.js"
+  },
+  "multipart": {
+    "mode": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg-multipart\\config\\config.default.js",
+    "autoFields": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg-multipart\\config\\config.default.js",
+    "defaultCharset": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldNameSize": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldSize": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fields": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileSize": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg-multipart\\config\\config.default.js",
+    "files": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileExtensions": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg-multipart\\config\\config.default.js",
+    "whitelist": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg-multipart\\config\\config.default.js",
+    "tmpdir": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg-multipart\\config\\config.default.js",
+    "cleanSchedule": {
+      "cron": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg-multipart\\config\\config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg-development\\config\\config.default.js",
+    "ignoreDirs": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg-development\\config\\config.default.js",
+    "fastReady": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg-development\\config\\config.default.js",
+    "reloadOnDebug": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg-development\\config\\config.default.js",
+    "overrideDefault": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg-development\\config\\config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "hourDelimiter": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "filesRotateBySize": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFileSize": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFiles": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "rotateDuration": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxDays": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg-logrotator\\config\\config.default.js"
+  },
+  "static": {
+    "prefix": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg-static\\config\\config.default.js",
+    "dir": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg-static\\config\\config.default.js",
+    "dynamic": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg-static\\config\\config.default.js",
+    "preload": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg-static\\config\\config.default.js",
+    "buffer": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg-static\\config\\config.default.js",
+    "maxFiles": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg-static\\config\\config.default.js"
+  },
+  "view": {
+    "root": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg-view\\config\\config.default.js",
+    "cache": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg-view\\config\\config.local.js",
+    "defaultExtension": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg-view\\config\\config.default.js",
+    "defaultViewEngine": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg-view\\config\\config.default.js",
+    "mapping": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg-view\\config\\config.default.js"
+  },
+  "env": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js",
+  "name": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js",
+  "proxy": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js",
+  "maxProxyCount": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js",
+  "protocolHeaders": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js",
+  "ipHeaders": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js",
+  "hostHeaders": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js",
+  "pkg": {
+    "name": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js",
+    "version": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js",
+    "description": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js",
+    "private": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js",
+    "egg": {
+      "typescript": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js",
+      "declarations": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js"
+    },
+    "scripts": {
+      "start": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js",
+      "stop": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js",
+      "dev": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js",
+      "debug": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js",
+      "test-local": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js",
+      "test": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js",
+      "cov": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js",
+      "tsc": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js",
+      "ci": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js",
+      "autod": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js",
+      "lint": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js",
+      "clean": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js"
+    },
+    "dependencies": {
+      "egg": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js",
+      "egg-scripts": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js",
+      "egg-webpack": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js",
+      "webpack": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js",
+      "webpack-cli": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js"
+    },
+    "devDependencies": {
+      "@types/mocha": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js",
+      "@types/node": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js",
+      "@types/supertest": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js",
+      "autod": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js",
+      "autod-egg": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js",
+      "egg-bin": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js",
+      "egg-ci": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js",
+      "egg-mock": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js",
+      "tslib": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js",
+      "tslint": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js",
+      "tslint-config-egg": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js",
+      "typescript": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js"
+    },
+    "engines": {
+      "node": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js"
+    },
+    "ci": {
+      "version": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js"
+    },
+    "repository": {
+      "type": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js",
+      "url": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js"
+    },
+    "eslintIgnore": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js",
+    "author": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js",
+    "license": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js"
+  },
+  "baseDir": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js",
+  "HOME": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js",
+  "rundir": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js",
+  "dump": {
+    "ignore": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js",
+    "notFound": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js",
+    "sitefile": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js",
+    "middlewares": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js",
+    "httpClient": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js"
+  },
+  "bodyParser": {
+    "enable": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js",
+    "formLimit": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js",
+    "jsonLimit": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js",
+    "strict": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js",
+    "queryString": {
+      "arrayLimit": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js",
+      "depth": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js",
+      "parameterLimit": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js"
+    },
+    "onerror": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js"
+  },
+  "logger": {
+    "dir": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js",
+    "env": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js",
+    "level": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js",
+    "consoleLevel": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js",
+    "disableConsoleAfterReady": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js",
+    "outputJSON": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js",
+    "buffer": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js",
+    "appLogName": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js",
+    "coreLogName": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js",
+    "agentLogName": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js",
+    "errorLogName": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js",
+    "coreLogger": {
+      "consoleLevel": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.local.js"
+    },
+    "allowDebugAtProd": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheLookupInterval": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheMaxLength": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js",
+    "request": {
+      "timeout": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketTimeout": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketTimeout": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js",
+    "logging": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js"
+  },
+  "coreMiddleware": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js",
+  "workerStartTimeout": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js",
+  "serverTimeout": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js",
+      "port": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js",
+      "hostname": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js",
+    "responseTimeout": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js"
+  },
+  "onClientError": "C:\\Users\\Hasee\\Desktop\\eggwebpack\\node_modules\\egg\\config\\config.default.js"
+}
