@@ -169,3 +169,15 @@
 2019-07-27 21:55:56,087 INFO 3208 [egg-schedule]: register schedule C:\Users\Hasee\Desktop\eggwebpack\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
 2019-07-27 21:55:56,087 INFO 3208 [egg-schedule]: register schedule C:\Users\Hasee\Desktop\eggwebpack\node_modules\egg-logrotator\app\schedule\clean_log.js
 2019-07-27 21:55:56,087 INFO 3208 [egg-schedule]: register schedule C:\Users\Hasee\Desktop\eggwebpack\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-07-27 22:20:33,448 INFO 9248 [egg-schedule]: register schedule C:\Users\Hasee\Desktop\eggwebpack\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-07-27 22:20:33,448 INFO 9248 [egg-schedule]: register schedule C:\Users\Hasee\Desktop\eggwebpack\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-07-27 22:20:33,448 INFO 9248 [egg-schedule]: register schedule C:\Users\Hasee\Desktop\eggwebpack\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-07-27 22:20:33,612 INFO 27784 [Timer] C:\Users\Hasee\Desktop\eggwebpack\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 22166391ms at 2019-07-28 04:30:00.003
+2019-07-27 22:20:33,613 INFO 27784 [Timer] C:\Users\Hasee\Desktop\eggwebpack\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 5966387ms at 2019-07-28 00:00:00.000
+2019-07-27 22:20:33,613 INFO 27784 [Timer] C:\Users\Hasee\Desktop\eggwebpack\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 5967387ms at 2019-07-28 00:00:01.000
+2019-07-27 22:23:25,553 INFO 30276 [Timer] C:\Users\Hasee\Desktop\eggwebpack\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 21994452ms at 2019-07-28 04:30:00.005
+2019-07-27 22:23:25,553 INFO 30276 [Timer] C:\Users\Hasee\Desktop\eggwebpack\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 5794447ms at 2019-07-28 00:00:00.000
+2019-07-27 22:23:25,553 INFO 30276 [Timer] C:\Users\Hasee\Desktop\eggwebpack\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 5795447ms at 2019-07-28 00:00:01.000
+2019-07-27 22:23:25,407 INFO 28372 [egg-schedule]: register schedule C:\Users\Hasee\Desktop\eggwebpack\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-07-27 22:23:25,407 INFO 28372 [egg-schedule]: register schedule C:\Users\Hasee\Desktop\eggwebpack\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-07-27 22:23:25,407 INFO 28372 [egg-schedule]: register schedule C:\Users\Hasee\Desktop\eggwebpack\node_modules\egg-logrotator\app\schedule\rotate_by_file.js

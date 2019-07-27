@@ -180,14 +180,15 @@
       "port": 9000,
       "proxy": {
         "host": "http://127.0.0.1:9000",
-        "match": "/^\\/public\\//"
+        "match": "/^\\/static\\//"
       },
       "webpackConfigList": [
         {
           "entry": "./app/public/static/test.js",
           "output": {
             "filename": "[name].js",
-            "path": "C:\\Users\\Hasee\\Desktop\\eggwebpack/public"
+            "path": "C:\\Users\\Hasee\\Desktop\\eggwebpack/app/public/static",
+            "publicPath": "/static"
           }
         }
       ]
