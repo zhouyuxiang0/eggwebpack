@@ -154,11 +154,11 @@
       },
       "webpackConfigList": [
         {
-          "entry": "./app/public/static/test.js",
+          "entry": "./app/public/static/js/test.js",
           "output": {
             "filename": "[name].js",
-            "path": "C:\\Users\\Hasee\\Desktop\\eggwebpack/app/public/static",
-            "publicPath": "/static"
+            "path": "C:\\Users\\Hasee\\Desktop\\eggwebpack/public",
+            "publicPath": "/static/js"
           }
         }
       ]

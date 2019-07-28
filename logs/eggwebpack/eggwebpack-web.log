@@ -75,3 +75,25 @@ name: "ECONNREFUSEDError"
 pid: 28624
 hostname: DESKTOP-U4L2DG7
 
+2019-07-27 22:28:19,170 ERROR 31896 [-/127.0.0.1/-/2014ms GET /static/mian.js] nodejs.ECONNREFUSEDError: connect ECONNREFUSED 127.0.0.1:9000
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+errno: "ECONNREFUSED"
+code: "ECONNREFUSED"
+syscall: "connect"
+address: "127.0.0.1"
+port: 9000
+name: "ECONNREFUSEDError"
+pid: 31896
+hostname: DESKTOP-U4L2DG7
+
+2019-07-27 22:28:27,702 ERROR 31896 [-/127.0.0.1/-/2004ms GET /static/js/main.js] nodejs.ECONNREFUSEDError: connect ECONNREFUSED 127.0.0.1:9000
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+errno: "ECONNREFUSED"
+code: "ECONNREFUSED"
+syscall: "connect"
+address: "127.0.0.1"
+port: 9000
+name: "ECONNREFUSEDError"
+pid: 31896
+hostname: DESKTOP-U4L2DG7
+
